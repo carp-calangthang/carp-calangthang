@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carp or Ca Lang Thang</h1>
-<h3 align="center">Hello everyone, I'm Carp, also known as "Ca Lang Thang." I am a programmer from Vietnam</h3>
+<h3 align="center">Hello everyone, I'm Carp, also known as "Ca Lang Thang." <br> I am a programmer from Vietnam</h3>
 
 - 🌱 I’m currently learning **Software Engineering**
 
