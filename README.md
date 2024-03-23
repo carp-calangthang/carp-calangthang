@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Software Engineering<br>💬 Ask me about react native, django, selenium, nodejs<br>📫 How to reach me nguyentrananhkhoa.wf@gmail.com
+🌱 I’m currently learning Software Engineering<br>💬 Ask me about React Native, Django, Selenium, Nodejs, Python, MongoDB <br>📫 How to reach me nguyentrananhkhoa.wf@gmail.com
 
 
 ## 🌐 Socials:
